@@ -2,10 +2,6 @@
 
 I was playing with akka streams bits and pieces, but I did not do any course, decided to do [Udemy akka streams course](https://www.udemy.com/course/akka-streams/) by Daniel
 
-
-# TODO 
-- Course did not cover how to use attributes in the custom graphs (check in [//TODO: my filter is not using attributes, fix them](./src/test/scala/tutorial/akka/streams/dynamic/CustomFilterFlowSpec.scala))
-
 # References
 
 - [Akka Streams](https://doc.akka.io/docs/akka/current/stream/index.html)
